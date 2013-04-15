@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 HashAB for iOS 4.x
 ======
 
@@ -16,5 +15,3 @@ the data refered urself!
 hashab
 ======
 
-HashAB for iOS4.x
->>>>>>> 78a733182656b6a6178ad3e3f80971344bbe8b6f
